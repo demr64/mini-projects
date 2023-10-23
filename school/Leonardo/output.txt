@@ -1,0 +1,6 @@
+['giungla', 'sabbie', 'sabbie', 'giungla', 'sabbie', 'giungla', 'giungla', 'sabbie', 'giungla', 'sabbie', 'sabbie', 'giungla', 'giungla']
+
+Osserviamo che gli ultimi tre gatti sono del seguente tipo:
+['sabbie', 'giungla', 'giungla']
+
+Process finished with exit code 0
