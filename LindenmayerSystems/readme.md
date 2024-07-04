@@ -3,6 +3,7 @@ This mini-project is about the implementation of different L-Systems which can g
 I made it with Python and the turtle library. The main resources I used for learning were: 
 - The Wikipedia page of L-systems: https://en.wikipedia.org/wiki/L-system
 - Turtle library: https://docs.python.org/3/library/turtle.html
+
 An L-system is defined by:
 V: the alphabet, a set of symbols that contains variables and constants
 W: the axiom, it defines the initial state of the system, it's a string
