@@ -1,7 +1,8 @@
 # LindenmayerSystems - L-Systems
 ![sierpinski](https://github.com/DennisAmiranda/minor-projects/assets/81851888/4149ad50-8dd4-4a38-ac5a-d59c30b3cc16)
+
 This mini-project is about the implementation of different L-Systems which can generate different fractal structures such as the sierpinski triangle.
-I made it with Python and the turtle library. The main resources I used for learning were: 
+I made it with Python and the turtle library. The main resources I used for learning were:
 - The Wikipedia page of L-systems: https://en.wikipedia.org/wiki/L-system
 - Turtle library: https://docs.python.org/3/library/turtle.html
 
@@ -11,15 +12,21 @@ W: the axiom, it defines the initial state of the system, it's a string
 P: which defines the rules and ways that we can transfrom symbols.
 
 So we will formalize this in classes, a main class will have functions for all the generators,
-as an example, values from the HoneyComb class would be:
+as an example, values from the SierpinskiRules class would be:
 ```Python
-    variables = ["A", "B"]
     axiom = "A"
-    constants = []
+    constants = ["+", "-"]
     angle = 60
+    mov_value = 3
     rules = {
-        "A": "AB",
-        "B": "A"
+        "A": "B-A-B",
+        "B": "A+B+A",
+    }
+    actions = {
+        "A":["FORW"],
+        "B":["FORW"],
+        "+":["ROTL"],
+        "-":["ROTR"],
     }
 ```
 Which means that We start with A, with an angle of 60 for all the rotations and that we map like so:
