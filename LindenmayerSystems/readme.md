@@ -32,6 +32,3 @@ As an example, values from the SierpinskiRules class would be:
         "-":["ROTR"],
     }
 ```
-Which means that We start with A, with an angle of 60 for all the rotations and that we map like so:
-- A -> AB
-- B -> A
