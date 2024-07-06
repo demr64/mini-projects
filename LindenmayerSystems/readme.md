@@ -1,5 +1,6 @@
 # LindenmayerSystems - L-Systems
-![sierpinski](https://github.com/DennisAmiranda/minor-projects/assets/81851888/4149ad50-8dd4-4a38-ac5a-d59c30b3cc16)
+![sierpinksi2](https://github.com/DennisAmiranda/minor-projects/assets/81851888/101bda43-0ec1-4e68-9b33-9de6507aca21)
+
 
 This mini-project is about the implementation of different L-Systems which can generate different fractal structures such as the sierpinski triangle.
 I made it with Python and the turtle library. The main resources I used for learning were:
