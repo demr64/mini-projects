@@ -1,6 +1,6 @@
 # LFractals - L-Systems
 <img align="left" src="https://github.com/DennisAmiranda/minor-projects/assets/81851888/101bda43-0ec1-4e68-9b33-9de6507aca21" alt="My Image">
-This mini-project is about the implementation of different L-Systems which can generatedifferent fractal structures such as the sierpinski triangle.
+This mini-project is about the implementation of different L-Systems which can generate different fractal structures such as the sierpinski triangle.
 I made it with Python and the turtle library. The main resources I used for learning were:
 <br><br>
 
