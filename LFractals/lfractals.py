@@ -41,7 +41,7 @@ class Rules:
                 dt.right(self.angle)
 
 
-class SierpinskiRules(Rules):
+class Sierpinski(Rules):
     axiom = "A"
     constants = ["+", "-"]
     angle = 60
@@ -58,7 +58,7 @@ class SierpinskiRules(Rules):
     }
     
     
-class HoneyComb(Rules):
+class Honeycomb(Rules):
     axiom = "A"
     constants = []
     angle = 60
