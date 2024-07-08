@@ -121,11 +121,11 @@ def main():
         try:
             match option:
                 case 1:
-                    shape = HoneyComb()
+                    shape = Honeycomb()
                     size = int(input())
                     assert size <= 20 and size >= 1
                 case 2:
-                    shape = SierpinskiRules()
+                    shape = Sierpinski()
                     size = int(input())
                     assert size <= 10 and size >= 1
                     
