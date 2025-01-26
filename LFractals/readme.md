@@ -32,8 +32,7 @@ As an example, values from the SierpinskiRules class would be:
         "-":["ROTR"],
     }
 ```
-
-This mini-project allows us to see different fractal objects, in particular:
+The particular curves available are:
 1. Sierpinski's triangle
 2. Dragon curve
 3. Koch curve
