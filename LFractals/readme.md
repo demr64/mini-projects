@@ -39,5 +39,6 @@ This mini-project allows us to see different fractal objects, in particular:
 3. Koch curve
 4. Hilbert curve
 5. Koch snowflake
-#TODO
+
+# TODO
 1. add stack for plant fractal generation
