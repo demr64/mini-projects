@@ -40,5 +40,5 @@ This mini-project allows us to see different fractal objects, in particular:
 4. Hilbert curve
 5. Koch snowflake
 
-<img src="https://github.com/user-attachments/assets/45d7cc6d-4bb8-4fd8-a9cc-24d9d0b4d09b">
+<img width="100px" height="100px" src="https://github.com/user-attachments/assets/45d7cc6d-4bb8-4fd8-a9cc-24d9d0b4d09b">
 <img src="https://github.com/user-attachments/assets/30276cbe-ef5e-46ee-917f-e08900860915">
