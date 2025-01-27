@@ -1,3 +1,4 @@
+# sorting-visualizer
 This is a little program made in pygame which allows us to see sorting algorithms in action,
 I implemented some of the most famous ones. The program isn't CLI based and runs locally in the pygame window, when we launch the program
 the screen will welcome us with this interface.
