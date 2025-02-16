@@ -8,5 +8,6 @@ This implementation uses no libraries. For learning I mostly used the wikipedia 
 The usage of the program is pretty straightforward, call in your terminal
 ```
 python sha1.py "<string to hash>"
+Hashed: <your hashed string>
 ```
 Please note that if the string to hash has more than one word (i.e. contains spaces) then the use of the quotation marks is obligatory for correct parsing. 
